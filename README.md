@@ -71,7 +71,7 @@ Since this is a CLI game involving randomness, testing is primarily manual. Foll
 
 _Result of Test 1: The "Bust" Test_
 
-![Bust Test Result](images/bust_test.png)
+![Bust Test Result](bust_test.png)
 
 _Result of Test 2: The "Stand" Test_
 
@@ -82,5 +82,6 @@ _Result of Test 3: The Input Validation Test_
 ![Invalid Input Test Result](images/invalid_input.png)
 
 _Result of Test 4: The "Draw" Scenario_
+
 
 ![Draw Test Result](images/draw_test.png)
